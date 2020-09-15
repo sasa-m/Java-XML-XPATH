@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<sweets>
+    <sweet>
+        <type id="1">Milka</type>
+        <price>0.9</price>
+        <date>2020-08-21</date>
+    </sweet>
+    <sweet>
+        <type id="2">7 days</type>
+        <price>1.2</price>
+        <date>2020-05-01</date>
+    </sweet>
+     <sweet>
+        <type id="3">Nutella</type>
+        <price>5.3</price>
+        <date>2020-06-12</date>
+    </sweet>
+    <sweet>
+        <type id="4">Bounty</type>
+        <price>0.5</price>
+        <date>2020-08-25</date>
+    </sweet>
+    <sweet>
+        <type id="5">Orbit</type>
+        <price>1</price>
+        <date>2020-04-02</date>
+    </sweet>
+    <sweet>
+        <type id="6">Snickers</type>
+        <price>0.7</price>
+        <date>2020-07-15</date>
+    </sweet>
+    <sweet>
+        <type id="7">Mars</type>
+        <price>0.45</price>
+        <date>2020-06-14</date>
+    </sweet>
+    <sweet >
+        <type id="8">Raffaello</type>
+        <price>3.8</price>
+        <date>2020-05-18</date>
+    </sweet>
+</sweets>
